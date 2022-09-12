@@ -10,3 +10,5 @@ GitHub:
 
 LinkedIn:
 - https://www.linkedin.com/in/andrewasheridan
+
+My last day at MassMutual is September 13, 2022.
